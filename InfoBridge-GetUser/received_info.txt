@@ -1,0 +1,2 @@
+{'username': 'CybExplore', 'computername': 'DESKTOP-6MAHK0G', 'os': 'Microsoft Windows 10 Pro 10.0.19045'}
+{'username': 'CybExplore', 'computername': 'DESKTOP-6MAHK0G', 'os': 'Microsoft Windows 10 Pro 10.0.19045'}
