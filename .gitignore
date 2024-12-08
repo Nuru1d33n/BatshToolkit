@@ -1,9 +1,9 @@
 InfoBridge-GetUsers
 Payloads1
 WinPass
-payloads
 rdp
 social
 engineering
 ssh
-payloads
+./payloads
+InfoBridge-GetUser/received_info.txt
